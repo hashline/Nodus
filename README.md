@@ -1,2 +1,2 @@
 # Nodus
-Decentralized Video Game Digital Distribution Service
+Decentralized Digital Distribution Service
